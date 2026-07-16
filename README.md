@@ -10,4 +10,3 @@ En desarrollo — Fase 0 completada.
 
 ## Cómo ejecutarlo
 (pendiente — se documenta a partir de Fase 1)
-

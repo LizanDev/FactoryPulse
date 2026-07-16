@@ -1,3 +1,3 @@
-def test_placegolder()-> None:
-    """ Placehholder hasta que existan tests reales"""
+def test_placegolder() -> None:
+    """Placehholder hasta que existan tests reales"""
     assert True
